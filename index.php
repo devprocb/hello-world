@@ -1,5 +1,3 @@
 <?php
-
-echo "this is a test"; 
-
+echo "This is a test 1";
 ?>
